@@ -1,0 +1,192 @@
+3
+Kô,kach,rong,phaâm
+ , ,Verb, 
+Kỹ_thuật,nuôi,thương_phẩm
+N,V,N
+
+3
+Ngoê,hnheêi,tôme,rong
+ , , ,Verb
+Quản_lý,chăm_sóc
+V,V
+
+6
+Minh,ksoâÊ,tôdrong,sinh,hoêk,pôgloh
+ , , , , , 
+Một_vài,đặc_điểm,sinh_học,chủ_yếu
+L,N,V,A
+
+7
+Kô,kach,rong,chinh,lôêm,‘,bau,the
+ , ,Verb, , , , , 
+Kỹ_thuật,nuôi,cá_chình,trong,ao,đất
+N,V,N,E,N,N
+
+12
+Cheêp,chô,ka,:,Cheêp,chô,ñôêng,gôdung,nilon,ôêi,‘,boâm,oâxi
+ , ,Noun, , , , , , , , , , 
+Vận_chuyển,cá,giống,:,Vận_chuyển,bằng,túi,nilon,có,bơm,ôxy,.
+V,N,A,F,V,E,N,N,V,N,A,F
+
+12
+Lôêm,jônang,rong,söê,tôjul,hiong,waê,ngoê,hnheêi,minh,tôdrong,pôgloh,ñôêng,roêng,ôêu
+ , ,Verb, , ,Verb, , , ,Numeral/Quantity, , , , , 
+Trong,quá_trình,nuôi,,,để,giảm_thiểu,rủi_ro,,,cần,lưu_ý,một_số,vấn_đề,quan_trọng,sau
+E,N,V,F,E,V,A,F,V,V,L,N,A,A
+
+30
+Thu,‘,yoêk,:,Adrol,jônang,thu,yoêk,waê,tôhnglaêih,ñak,lôêm,‘,bau,jul,puoân,jiêt,drôêu,jiêt,,,‘,yoêk,löôêi,dui,baêl,truh,maêng,adrol,jônang,tôhnglaêih,srieâÊ,‘,bau,roâp,ñiê,.
+ , , , , , ,Adjective, , , , , , , ,Adverb, ,Verb, ,Verb, , , , ,Verb, ,Verb, , , , , , , , , , 
+Thu_hoạch,:,Trước,khi,thu_hoạch,cần,tháo,trong,nước,ao,xuống,còn,40,-,60,cm,,,dùng,luới,kéo,2,-,3,lần,trước,khi,xả,cạn,ao,bắt,toàn_bộ,.
+V,F,E,N,V,V,V,E,N,N,R,V,M,F,M,Nu,F,V,N,V,M,F,M,N,E,N,V,A,N,V,N,F
+
+32
+Phong,jiê,aên,ka,:,Ka,chinh,‘,biêa,ôêi,jiê,.,Ka,deêch,tuêk,sa,yua,tôdrong,moâi,tröông,oeêng,tôdrong,tueân,‘,yoêk,adreâÊch,‘,biêa,tôdrong,thu,yoêk,ñei,cheêp,truh,biê,sa,hiong,lö
+ , , ,Noun, , , , , , , , , , , ,Verb, , , , , , , , , , , , , ,Adjective, , , ,Verb, ,Verb,Verb, 
+Phòng_bệnh,cho,cá,Chình,:,Cá_Chình,ít,có,bệnh,.,Cá,thường,bỏ,ăn,là,do,yếu_tố,môi_trường,và,khâu,tuyển_chọn,giống,kém,chất_lượng,dẫn,đến,cá,không,ăn,và,hao_hụt,nhiều,.
+V,E,N,Np,F,Np,A,V,N,F,N,R,V,V,V,E,N,N,C,N,V,N,A,N,V,V,N,R,V,C,V,A,F
+
+33
+Chaê,yuoâ,ñoâ,sa,hli,oâm,hö,,,biê,ôêi,tôdrong,thu,yoêk,ñei,keâÊt,hôêp,adriêng,Vitamin,C,söê,kjung,tôdrong,ñeâ,khang,aên,ka,Lôêm,jônang,rong,chinh,deêch,maêk,phai,ksoâÊ,jiê,ñôêng,roêng,ôêu
+ , , ,Verb, , , , , , , ,Adjective, , , , , , , , , , , , , ,Noun, , ,Verb, , , ,Adverb, , , , , 
+Sử_dụng,thức_ăn,tươi_sống,tránh,hôi_thối,,,kém,chất_lượng,kết_hợp,với,VitaminC,để,tăng_cường,sức,đề_kháng,cho,cá,.,Trong,quá_trình,nuôi,cá,Chình,thường,mắc,phải,một_số,bệnh,sau
+V,N,V,V,A,F,A,N,V,E,N,E,V,N,V,E,N,F,E,N,V,N,Np,R,V,V,L,N,A
+
+35
+Tôdrong,‘,yinh,‘,yöông,:,Ka,chinh,la,ka,sa,vaât,.,Thanh,phaân,ñoâ,sa,kaên,hô,la,loai,lôêm,kôpul,ñoâng,vaât,in,‘,biêa,tô,,,ôkôêu,lômön,,,jöng,khôêp,,,ka,kö,oeêng,minh,loai,ñoâng,vaât,nai
+ , , , , , , , ,Verb,Noun,Verb, , , , , ,Verb, , ,Verb, , , , , ,Adjective, , , , , , , , , , ,Noun, , ,Numeral/Quantity, , , ,Adjective
+Đặc_điểm,dinh_dưỡng,:,Cá_Chình,là,loài,cá,dữ,ăn,động_vật,.,Thành_phần,thức_ăn,của,chúng,bao_gồm,những,loài,trong,nhóm,động_vật,như,giun,ít,tơ,,,thân_mềm,,,chân,khớp,,,cá,lưỡng,cư,và,một_số,loài,động_vật,trên,cạn,khác,.
+N,N,F,Np,V,Nc,N,A,V,N,F,N,N,E,P,V,L,N,E,N,N,C,N,A,N,F,N,F,N,N,F,N,V,V,C,L,Nc,N,E,N,A,F
+
+35
+Chaê,adreâÊch,dônoê,ñei,naê,ma,gônôêm,,,tôdrong,thu,yoêk,ñei,,,ngoê,hnheêi,ka,tôpaê,ky,jônang,ruoât,.,‘,Bau,phai,xö,lyê,tôpaê,ky,adrol,jônang,tôhnglaih,adreâÊch,,,phai,tôl,hôgeêi,rim,tôdrong,moâi,tröông,in,noh
+ , , , , ,Noun, , , ,Adjective, , , , , ,Noun, , , , , , , ,Adverb, , , , , , , , , ,Adverb, , , , , , ,Adjective,Pronoun
+Chọn,giống,nơi,uy_tín,,,chất_lượng,,,kiểm_tra,cá,giống,thật,kỹ,khi,mua,.,Ao,phải,được,xử_lý,thật,kỹ,trước,khi,thả,giống,,,phải,đảm_bảo,tốt,các,yếu_tố,môi_trường,như,trên,.
+V,A,N,N,F,N,F,V,N,A,R,A,N,V,F,N,V,R,V,R,A,E,N,V,A,F,V,V,A,L,N,N,C,A,F
+
+36
+Söê,ngoê,hnheêi,ñoâ,sa,‘,naêr,ñei,thu,yoêk,waê,ngoê,hnheêi,minh,tôdrong,ñôêng,roêng,ôêu,:,Ñoâ,sa,arih,uoâil,ieâl,(,hli,ruoât,ñoâ,sa,kua,lyê,hoa,chaât,),.,Phai,xac,ñinh,dônoê,söê,san,trô,troê
+ , , , ,Verb, , , ,Adjective, , , , ,Numeral/Quantity, , , , , , ,Verb,Adjective, , , , , , ,Verb,Verb, , , , , , , , , , , , , 
+Để,quản_lý,thức_ăn_hàng,được,hiệu_quả,cần,lưu_ý,một,vấn_đề,sau,:,Thức_ăn,cần,tươi,,,sạch,(,tránh,mua,thức_ăn,đã,qua,xử_lý_hóa_chất,),.,Phải,xác_định,vị_trí,đặt,sàn,hợp_lý,.
+E,V,N,V,N,V,V,M,N,A,F,N,V,A,F,A,F,V,V,N,R,V,N,F,F,V,V,N,V,N,A,F
+
+37
+Ñoâ,sa,ka,thoi,huoâil,,,pôsaêu,,,ka,waê,‘,baêm,ken,böa,kô,‘,bôl,ka,Söê,ka,sa,hli,nhieâm,jiê,kyê,sinh,ñôêng,ka,,,waê,‘,nhuêng,ka,ñak,‘,boh,roêng,‘,noh,pieâu,ñak,ngam,cheêp,aên,ka,.,Jônang,ka,ken,ñoâ,sa,xay,leêch,söê,ka,sa
+ ,Verb,Noun,Verb, , , , ,Noun, , , ,Adjective, , , , ,Noun, ,Noun,Verb, , , , , , ,Noun, , , , ,Noun, , ,Verb, , ,Pronoun, , ,Adjective, , ,Noun, , ,Noun,Adjective, ,Verb, , , ,Noun,Verb
+Thức_ăn,cho,cá,Chình,bao_gồm,giun,,,ốc,,,cá,tạp,...,cần,băm,nhỏ,cho,vừa,cỡ,miệng,cá,.,Để,cá,dễ,ăn,và,tránh,nhiễm_bệnh,ký_sinh,từ,cá,tạp,,,nên,nhúng,cá,qua,nước,muối,sau,đó,xả,lại,nước_ngọt,rồi,đem,cho,cá,ăn,.,Khi,cá,còn,nhỏ,,,thức_ăn,nên,xay,ra,để,cá,dễ,ăn,.
+N,E,N,Np,V,N,F,N,F,N,N,F,V,V,A,E,R,V,N,N,F,E,N,A,V,C,V,N,N,E,N,N,F,C,V,N,V,N,N,E,P,V,R,N,C,V,E,N,V,F,N,N,R,A,F,N,C,V,V,E,N,A,V,F
+
+37
+Kaên,ñoâ,sa,söê,lôkah,(,oei,nhieât,ñoâ,ñak,khoang,‘,baêl,jiêt,ñoâ,C,löông,ñoâ,sa,sa,‘,naêr,ñôêng,pôñaêm,truh,jiêt,traêm,pôting,trong,ka,‘,bau,.,Deêch,‘,yoêk,möêk,ka,sa,minh,pôm,,,tôplih,löông,ñoâ,sa,hla,nhö,ka,ñiê,lôêm,minh,la
+ , ,Verb, , , , , , , , , , ,Verb, , , , ,Verb,Verb, , , , ,Verb,Verb, , ,Noun,Noun, , , , , , , ,Noun,Verb,Numeral/Quantity,Determiner, , , , ,Verb, , ,Noun, , ,Numeral/Quantity,Verb
+Căn_thức_ăn_không,để,quá,dư,(,ở,nhiệt_độ,nước,khoảng,25oC,lượng,thức_ăn,cho,ăn,một,ngày_đêm,từ,5,-,10,%,tổng,trọng_lượng,cá,trong,ao,.,Thường,lấy,mức,cá,cho,ăn,trong,1,giờ,làm,chuẩn,,,điều_chỉnh,lượng,thức_ăn,sao,cho,cá,ăn,hết,trong,1,giờ,là,vừa,.
+N,E,R,A,F,E,N,N,N,M,N,N,E,V,M,N,E,M,F,M,F,N,N,N,E,N,F,Np,V,N,N,V,V,E,M,N,V,N,F,V,N,N,P,E,N,V,V,E,M,Nu,V,R,F
+
+38
+Ñieâu,tri,:,Hum,aên,ka,Xanh,methylene,lieâu,löông,minh,lieân,tuêk,lôm,peâng,truh,‘,naêr,thoi,yuoâ,formalin,‘,baêl,jiêt,truh,jiêt,lôêm,tôpôh,truh,‘,naêr,,,minh,ôêi,tôdrong,chaê,yuoâ,ñak,‘,boh,aên,ka,noâng,ñoâ,pôñaêm,truh,phaân,traêm,ñoâ,.
+ , , , , ,Noun, , , , ,Numeral/Quantity, , , , ,Verb, , ,Verb, , , , ,Verb,Verb,Verb, , ,Verb, , , ,Numeral/Quantity, , , , , , ,Verb, ,Noun, , , ,Verb, , , , 
+Điều_trị,:,Tắm,cho,cá,bằng,Xanh,methylen,liều_lượng,1,ppm,liên_tục,trong,3,-,4,ngày,hoặc,dùng,formalin,25,-,30,ppm,trong,7,-,8,ngày,,,ngoài_ra,có_thể,dùng,nước,muối,tắm,cho,cá,với,nồng_độ,5,-,7,‰,.
+V,F,V,E,N,E,Np,A,N,M,N,A,E,M,F,M,N,C,V,N,M,F,M,N,E,M,F,M,N,F,C,R,V,N,N,V,E,N,E,N,M,F,M,Nu,F
+
+39
+Jiê,trung,pleêi,döa,:,Lôêm,ôkôêu,ka,ñoâÊm,bak,ken,kôl,gim,.,Rim,chôêm,anu,jônang,pôchah,leêch,rim,ôêu,trung,tômöt,lôêm,ñak,.,Rim,dônoê,pôchah,pôm,rim,veâÊt,loet,lôêm,ôkôêu,ka,tôdrong,aên,vi,khuaân,naêm,tômöt,ôkôêu,ka
+ , , , , , , ,Noun, ,Verb,Adjective, , , , , , , , , , , , , , , , , , , ,Determiner, , , , , ,Noun, , , , , , , ,Noun
+Bệnh,trùng,quả,dưa,:,Trên,thân,cá,có,đốm,trắng,to_nhỏ,như,đầu,ghim,.,Những,chấm,này,khi,vỡ,tung,ra,các,ấu_trùng,vào,trong,nước,.,Những,chỗ,vỡ,tạo,thành,các,vết,loét,trên,thân,cá,tạo,điều_kiện,cho,vi_khuẩn,xâm_nhập,vào,cơ_thể,cá,.
+N,N,N,N,F,E,N,N,V,N,A,A,C,N,N,F,L,N,P,N,V,V,V,L,N,V,E,N,F,L,N,V,V,V,L,N,V,E,N,N,V,N,E,N,V,E,N,N,F
+
+42
+Phai,aên,sa,jô,.,Biê,neân,tôplih,ñoâ,sa,kô,kach,ñoât,ngoât,maê,phai,dal,.,AÊn,sa,kö,lôêm,‘,naêr,bôgheâ,thoi,mat,,,san,aên,ka,la,hinh,vuoâng,pôm,pôseêi,,,kiêch,kô,hôgeêi,pôgloh,saê,minh,vuoâng,ñuoâÊi,‘,baêl,jiêt,,,kaêng,ñôêng,löôêi,köôêk
+ , ,Verb, , , , , , ,Verb, , , , , ,Adverb,Adjective, , ,Verb, , , , , ,Verb, , , , ,Noun,Verb, , ,Determiner, , , , , , , ,Numeral/Quantity, , , , ,Verb, , , , , 
+Phải,cho,ăn,đúng,giờ,.,Không,nên,thay_đổi,thức_ăn,một_cách,đột_ngột,mà,phải,thay_đổi,từ,từ,.,Cho,ăn,một,cữ,trong,ngày,sáng,hoặc,chiều,mát,,,sàn,cho,cá,ăn,là,khung,hình_vuông,làm,bằng,sắt,,,kích_cỡ,tốt,nhất,rộng,1m2,cao,20cm,,,căng,bằng,lưới,cước,.
+V,V,V,A,N,F,R,V,V,N,N,A,C,V,V,E,N,F,E,V,M,N,E,N,A,C,N,A,F,N,E,N,V,V,N,V,V,E,N,F,N,A,R,A,M,A,M,F,V,E,N,N,F
+
+42
+Ngoê,hnheêi,moâi,tröông,pH,:,Tôplih,pH,ñôêng,tôpôh,pheêi,pôñaêm,truh,pheêi,pôñaêm,.,Oxy,hoa,tan,ñôêng,peâng,miligam,lôêm,minh,kjung,.,Ñoâ,hlaêng,waê,pôgeêi,pieâu,ñôêng,peâng,jiêt,puoân,jiêt,.,Nhieât,ñoâ,trô,troê,ñôêng,‘,baêl,jiêt,truh,jiêt,ñoâ,C
+ , , , , , , , , , , , ,Verb, , , , , , , , , , ,Numeral/Quantity, , , , , , , , , ,Verb, ,Verb, , , , , , , , ,Verb,Verb,Verb, , 
+Quản_lý,môi_trường,pH,:,Điều_chỉnh,pH,từ,7,5,-,8,5,.,Oxy,hòa_tan,từ,3mg,/,l,trở,lên,.,Độ,trong,cần,duy_trì,từ,30,-,40cm,.,Nhiệt_độ,thích_hợp,từ,25,-,34oC,.
+V,N,V,F,V,N,E,M,F,M,F,Np,V,E,M,F,N,V,R,F,N,E,N,V,E,M,F,M,F,N,A,E,M,F,M,F
+
+44
+Jônang,ka,kach,minh,‘,naêr,phai,löông,ñoâ,sa,minh,.,Tuy,tômöt,pleênh,,,jônang,kuê,theâ,maê,tôplih,ñoâ,sa,trô,troê,.,Ka,deêch,sa,tômöt,rim,‘,naêr,toê,hôgeêi,,,ôêi,kyal,oeêng,tôjul,sa,rim,‘,naêr,bröê,ôêi,ami,,,biê,ôêi,kyal,)
+ ,Noun, ,Numeral/Quantity, , ,Adverb, , ,Verb,Numeral/Quantity, , , , , , , , , , , ,Verb, , , , , ,Verb, , , , , , , , , , , ,Verb, , , , , , , , , , , 
+Khi,cá,lớn,dần,cách,10,ngày,phải,tăng,lượng,thức_ăn,lên,1,lần,.,Tùy_vào,thời_tiết,,,giai_đoạn,cụ_thể,mà,điều_chỉnh,thức_ăn,cho,phù_hợp,.,Cá,thường,ăn,mạnh,vào,nhũng,ngày,nắng,tốt,,,có,gió,và,giảm,ăn,vào,những,ngày,âm_u,có,mưa,,,lặng,gió,)
+N,N,A,R,N,M,N,V,V,N,N,V,M,N,F,V,N,F,N,A,C,V,N,E,V,F,N,R,V,A,E,N,N,N,A,F,V,N,C,V,V,E,L,N,A,V,N,F,V,N,F
+
+45
+Ngoê,hnheêi,rim,‘,naêr,:,Rim,‘,naêr,phai,ngoê,hnheêi,tôdrong,hoat,ñoâng,ñôêng,ka,ôêi,tôdrong,xö,lyê,tôtam,jônang,tôdrong,bröê,ôêi,leêch,.,Ngoê,hnheêi,ky,thuaât,ñôêng,kô,kach,aên,sa,tôdrong,tôplih,moâi,tröông,(,pôgloh,pH,,,khiê,ñoâÊk,)
+ , , , , , , , , ,Adverb, , , , , , ,Noun, , , , , , , , , , , , , , , , , , , ,Verb, , , , , , , , , , , 
+Quản_lý,hằng,ngày,:,Hằng,ngày,phải,thường_xuyên,theo_dõi,quá_trình,hoạt_động,của,cá,để,có,biện_pháp,xử_lý,kịp_thời,khi,tình_huống,xấu,xảy,ra,.,Theo_dõi,thật,kỹ,từ,cách,cho,ăn,đến,sự_biến_đổi,môi_trường,(,đặc_biệt,pH,,,khí,độc,),.
+V,R,N,F,R,N,V,A,V,N,V,E,N,E,V,N,V,A,N,N,A,V,V,F,V,R,A,E,N,E,V,E,N,N,F,A,A,F,N,A,F,F
+
+49
+Ñôêng,roêng,jônang,tôhnglaêih,adreâÊch,phai,ky,,,deêch,chaê,yuoâ,rim,hoa,chaât,ñôêng,roêng,ôêu,söê,xö,lyê,ñak,minh,minh,aên,‘,bau,in,:,khoâng,pheêi,pôñaêm,kiloâgam,lôêm,minh,met,.,Ñôêng,roêng,‘,noh,yuoâ,Zeolite,ñôêng,pôñaêm,truh,jiêt,lôêm,minh,met,keâÊt,hôêp,kaâÊy,men,vi,sinh,söê,oân,ñinh,moâi,tröông
+ , , , , ,Adverb, , , , , , , , , , , , , , , ,Numeral/Quantity,Numeral/Quantity, , , ,Adjective, , , , , , ,Numeral/Quantity,Unit noun, , , , ,Pronoun, , , , ,Verb,Verb, ,Numeral/Quantity,Unit noun, , , , , , , , , , , 
+Sau,khi,thả,giống,phải,định_kỳ,,,thường_xuyên,dùng,các,hóa_chất,sau,để,xử_lý,nước,1,tháng,/,lần,cho,ao,như,Virkon,:,0,5,kg,/,1000m3,.,Sau,đó,dùng,Zeolite,từ,5,-,10kg,/,1000m2,kết_hợp,cấy,men,vi_sinh,để,ổn_định,môi_trường,.
+E,N,V,N,V,V,F,A,V,L,N,N,E,V,N,M,N,F,N,E,N,C,Np,F,M,Nu,F,M,F,E,P,V,Np,E,M,F,M,F,M,N,V,N,N,E,V,N,F
+
+53
+Jiêt,‘,bak,:,Ka,deêch,ñôêng,kôpöng,maêt,ñak,,,klôi,lô,,,dal,.,Lôêm,ôkôêu,ôêi,rim,veât,bak,akal,‘,biê,loet,.,Ñieâu,tri,:,Chaê,yuoâ,Tetracyclin,söê,hum,ka,lieâu,löông,‘,baêl,hrieâng,pôñaêm,jiêt,lôêm,minh,lit,ñak,lôêm,‘,baêl,jiêt,peâng,jiêt,.,Jrôêu,bôgang,Oxytetracyclin,lieâu,löông,peâng,truh,gam,lôêm,minh,ñoâ,sa
+ , ,Verb, , , , , , , , , ,Verb, ,Adjective, , , , , , ,Verb, , , , , , , , , , , , ,Verb,Noun, , , , , , ,Verb, ,Numeral/Quantity, , , , , ,Verb, ,Verb, , , , , , , ,Verb, , ,Numeral/Quantity, ,Verb
+Bệnh_trắng,da,:,Cá,thường,nổi,trên,mặt_nước,,,bơi,lờ_đờ,,,chậm_chạp,.,Trên,thân,có,những,vệt,trắng,,,da,bị,loét,.,Điều_trị,:,Dùng,Tetracyclin,để,tắm,cho,cá,với,liều_lượng,250mg,/,10lít,nước,trong,20,-,30,phút,.,Trộn,thuốc,Oxytetracyclin,liều_lượng,3,-,5g,/,kg,thức_ăn,.
+V,N,F,N,R,R,E,N,F,V,A,F,A,F,E,N,V,L,N,A,F,N,V,V,F,V,F,V,Np,E,V,E,N,E,N,M,F,M,N,E,M,F,M,Nu,F,V,N,Np,N,M,F,M,F,Nu,N,F
+
+55
+Chaê,adreâÊch,:,Chaê,ka,jaêng,,,ôkal,‘,boêng,,,lö,nhôêt,,,biê,jiêt,,,kiêch,kô,hôdôi,.,Hôgeêi,pôgloh,la,adreâÊch,lôêm,rim,trai,chueân,öông,ka,söê,tômaên,tôl,tôdrong,thu,yoêk,ñei,tôjul,hiong,oeêng,ñat,ty,leâ,yaêl,arih,.,Trong,löông,ka,hôgeêi,pôgloh,ñôêng,pôñaêm,truh,jiêt,minh,.,Maât,ñoâ,tôhnglaêih,ñôêng,khoâng,pheêi,pôñaêm,truh,hlak,met,.
+ , , , ,Noun, , , , , , , , , , ,Verb, , , , , , , ,Verb, , , , , , ,Noun, , , , ,Adjective, , , ,Verb, , , , , ,Adjective, , , ,Noun, , , , ,Verb,Verb,Numeral/Quantity, , , , , , , , ,Verb,Classifier noun/Noun/Determiner,Unit noun, 
+Chọn,giống,:,Chọn,cá,giống,khỏe,,,da,bóng,,,nhiều,nhớt,,,không,bệnh_tật,,,kích_cỡ,đồng_đều,.,Tốt,nhất,là,chọn,giống,tại,các,trại,chuyên,ương,cá,giống,để,đảm_bảo,chất_lượng,,,giảm,hao_hụt,và,đạt,tỷ_lệ,sống,cao,.,Trọng_lượng,cá,thả,tốt,nhất,từ,5,–,10,con,/,kg,.,Mật_độ,thả,:,Từ,0,5,-,l,con,/,m2
+V,N,F,V,N,A,A,F,N,N,F,A,N,F,R,N,F,V,N,F,A,R,V,V,N,E,L,N,A,V,N,A,E,V,N,F,V,N,C,V,N,V,A,F,N,N,V,A,R,E,M,N,M,N,F,Nu,F,N,V,F,E,M,F,N,N,F,Nu
+
+56
+Tôêp,tiênh,:,Ka,chinh,la,yaêl,arih,,,oei,lôêm,rim,troâm,tamo,,,troâm,‘,long,buê,ôkôêu,löêk,troâk,chuoâÊh,,,rim,troâm,oei,rim,‘,bô,ñak,krong,.,La,loai,waê,kômaêng,yuê,rôñak,,,kô,‘,naêr,kaên,hô,chaê,dônoê,ôêi,rôñah,kheê,söê,oei,,,kômaêng,klôi,leêch,chaê,ñoâ,sa,naêm,dônoê,nai
+ , , , , ,Verb, ,Adjective, , , , , , , , , ,Noun, , , , , , , , , , , , , ,Noun, , , , , , , , , , , , , , , , , , , , , , , , , , ,Verb, , ,Adjective
+Tập_tính,:,Cá_Chình,là,loài,sống,đáy,,,chui_rúc,trong,các,hang,đá,,,hốc,cây,,,vùi,mình,xuống,bùn,cát,,,các,hang_hốc,dọc,các,bờ,sông,lớn,.,Là,loài,thích,bóng_tối,sợ,ánh_sáng,,,ban_ngày,chúng,tìm,nơi,có,ánh_sáng,yếu,để,ẩn_nấp,,,ban_đêm,bơi,ra,kiếm,mồi,và,di_chuyển,đi,nơi,khác,.
+N,F,Np,V,N,V,N,F,V,E,L,N,N,F,N,N,F,V,P,V,N,N,F,L,N,A,L,N,N,A,F,C,N,V,N,V,N,F,N,P,V,N,V,N,A,E,V,F,N,V,R,V,N,C,V,V,N,A,F
+
+56
+Cheêp,chô,truh,,,tôhnglaih,ñiê,gôdung,nilon,jul,bau,söê,nhieât,ñoâ,lôêm,oeêng,ôgah,gôdung,dang,adriêng,ñôêng,roêng,‘,noh,pôloêk,gôdung,aên,ka,ôgah,.,Adrol,jônang,tôhnglaêih,waê,hum,ka,minh,‘,baêl,kô,kach,ñôêng,roêng,ôêu,.,ThuoâÊk,tiêm,KMnO,puoân,),:,minh,peâng,ppm,.,Thoi,toêng,ka,‘,yung,‘,yit,ñak,‘,boh,jiêt,truh,jiêt,traêm,ñoâ,ñôêng,pôñaêm,truh,jiêt
+ , ,Verb, , , , , ,Adverb, , , , , , , , ,Adverb, , , , ,Pronoun, , , ,Noun, , , , , , ,Verb,Noun,Numeral/Quantity, , , , , , , , , ,Verb, , , , ,Numeral/Quantity, , , , , ,Noun, , , , , , ,Verb,Verb,Verb,Verb, , , , ,Verb,Verb
+Vận_chuyển,đến_nơi,,,thả,cả,túi,nilon,xuống,ao,để,nhiệt_độ,trong,và,ngoài,túi,bằng,nhau,sau,đó,mới,mở,túi,cho,cá,ra,ngoài,.,Trước,khi,thả,cần,tắm,cho,cá,bằng,một,trong,hai,cách,sau,:,Thuốc_tím,(,KMnO4,),:,1,-,3,ppm,.,Hoặc,ngâm,cá,trong,dung_dịch,nước,muối,15,-,30,%,0,từ,15,-,30,phút,.
+V,V,F,V,P,N,V,V,N,E,V,A,C,E,N,E,N,E,P,R,V,N,E,N,V,N,F,E,N,V,V,V,E,N,E,M,E,M,N,A,F,N,F,N,F,F,M,F,M,N,F,C,V,N,E,N,N,N,M,F,M,F,M,E,M,F,M,Nu,F
+
+59
+Kai,tao,‘,bau,:,Atat,srieÊâ,‘,bau,koêch,troâk,kôniêt,,,‘,buê,rim,troâm,,,ta,CaCO,peâng,,,ñôêng,pôñaêm,jiêt,minh,kiloâgam,lôêm,minh,met,(,tuy,‘,boi,pH,teh,.,Draê,kôniêt,‘,bau,ñôêng,pôñaêm,truh,‘,naêr,(,adriêng,rim,apung,ôêi,phen,thoi,draê,‘,baêl,‘,naêr,roâi,kôêp,ñak,tômöt,söê,hli,tôdrong,xi,phen,)
+ , , , , , , , , , , , , , , , , , ,Verb, , , , , ,Verb,Numeral/Quantity, , ,Numeral/Quantity,Unit noun, , , , , ,Noun, , , , , , , ,Verb, , , , , ,Noun, , ,Verb, , , , , , , , , , , , , , , 
+Cải_tạo,ao,:,Tát,cạn,ao,,,nạo_vét,bùn,đáy,,,lấp,các,hang_hốc,,,rải,vôi,CaCO3,,,từ,50,-,100kg,/,1000m2,(,tùy,theo,pH,đất,),.,Phơi,đáy,ao,từ,5,-,7,ngày,(,đối_với,những,vùng_đất,có,phèn,tiềm_tàng,thì,nên,phơi,2,ngày,rồi,cấp_nước,vào,để,tránh,hiện_tượng,xì,phèn,),.
+V,N,F,V,A,N,F,V,N,N,F,V,L,N,F,V,N,N,F,E,M,F,M,F,M,F,V,E,N,N,F,F,V,N,N,E,M,F,M,N,F,E,L,N,V,N,A,C,C,V,M,N,C,V,V,E,V,N,V,N,F,F
+
+60
+Ôkôêu,ka,ôêi,hinh,truê,ñuoâÊi,ôêi,kôchap,xeâp,hinh,chieâÊu,,,ken,‘,yang,xoan,oeêng,chôkil,oei,apung,dal,.,Kôl,tron,,,maêt,ken,‘,bôl,hôl,cheâÊch,,,trôi,‘,bôl,hôbôl,,,lôpieât,tö,‘,yo,biê,ajin,tômöt,kôniêt,‘,bôl,muêt,han,‘,bôl,oeêng,kang,ôêi,gô,,,sônanh,ken,xeâp,lôêm,‘,baêl,kang,kôtieâng,khôu,caêi,thanh,rim,‘,yai,sônanh
+ ,Noun, , , , , , , , , , ,Adjective, ,Noun, , , , ,Noun,Adjective, , , , , ,Adjective, , , , , , , , , , , , , , , , , , , , , ,Adjective, , , ,Noun, ,Verb, , ,Adjective, , , , ,Noun, , , , , , , , 
+Thân,cá,Chình,có,hình_trụ,dài,có,vảy,xếp,dạng,hình,chiếc,chiếu,,,nhỏ,,,dạng,trái_xoan,và,vây,chạy,vùng,quanh,ngực,.,Đầu,tròn,,,mắt,bé,,,miệng,hơi,chếch,,,môi,dày,,,lưỡi,tự_do,không,dính,vào,đáy,miệng,mút,nhọn,của,mõm,và,hàm,dưới,có,gờ,thịt,,,răng,nhỏ,và,xếp,trên,hai,hàm,và,xương,khẩu,cái,thành,các,dải_răng,.
+N,N,Np,V,N,A,V,N,V,N,N,Nc,N,F,A,F,N,N,C,V,V,N,N,N,F,N,A,F,N,A,F,N,R,A,F,N,A,F,V,N,R,V,E,N,N,V,N,E,N,C,N,E,V,N,N,F,N,A,C,V,E,M,N,C,N,N,Nc,V,L,N,F
+
+60
+Jiê,yua,môêu,thuy,mi,Lôêm,ôkôêu,ka,rim,anhuêm,‘,bak,noh,rim,sôi,môêu,‘,bam,tômöt,ka,kôna,jônang,ka,biê,vieâm,loet,thoi,pôjing,ranh,,,ka,klôi,ko,tômöt,thanh,‘,beâ,.,Phong,tri,:,Toêng,lôêm,ñak,‘,boh,noâng,ñoâ,pôñaêm,phaân,traêm,lôêm,minh,phut,,,ñôêng,roêng,‘,noh,ka,‘,beâ,ñak,sach,.,Thoi,‘,noh,trung,‘,beâ,rim,‘,naêr
+ , , , ,Noun, , ,Noun, , , ,Verb,Pronoun, , , , , , ,Noun, , ,Noun, , , ,Verb, , , ,Noun, ,Noun, , , , , , , , , , , , ,Verb, , , , , , ,Numeral/Quantity, , , , , ,Pronoun,Noun, , , , , , , ,Pronoun, , , , , , 
+Bệnh,do,nấm,thủy_mi,:,Trên,thân,cá,có,những,búi,trắng,đó,là,những,sợi,nấm,bám,vào,cá,phát_triển,nên,khi,cá,bị,viêm,loét,thì,nấm,sẽ,phát_triển,nhanh,,,cá,hay,bơi,cọ,sát,vào,thành,bể,.,Phòng,trị,:,Ngâm,trong,nước,muối,có,nồng_độ,5,%,trong,10,phút,,,sau,đó,thả,cá,vào,bể,nước_sạch,.,Đồng_thời,sát_trùng,bể,mỗi,ngày,.
+N,E,N,V,F,E,N,N,V,L,N,A,P,V,L,Nc,N,V,E,N,V,C,N,N,V,V,V,C,N,R,V,A,F,N,C,V,V,A,V,V,N,F,N,V,F,V,E,N,N,V,N,M,Nu,E,M,Nu,F,E,P,V,N,E,N,N,F,R,V,N,M,N,F
+
+64
+Ka,chinh,la,oei,lôêm,kôbraê,ka,hôleêch,bieâÊ,,,ôêi,maêt,khoa,hoêk,la,.,Anu,la,ôêi,tôdrong,yaêl,arih,pôjing,ranh,,,ôêi,tôdrong,yaêl,arih,troâk,oeêng,rim,troâm,,,‘,yuê,rôñah,,,hoat,ñoâng,pôgloh,tômöt,kômaêng,.,La,minh,rim,loai,ñaêk,san,cheêp,aên,kinh,teâh,deâh,oeêng,pôgloh,ñei,kô,waê,lôêm,thi,tröông,Vieât,Nam,oeêng,rim,ñak,Ñoâng,Baêk,AÊ
+ , ,Verb, , , ,Noun, , , , , , , ,Verb, , ,Verb, , , ,Adjective, , , , , , ,Adjective, , , , , , , , , , , , , , , , ,Numeral/Quantity, , , , , , , , , , , , , , , , , , , , , , , , , 
+Cá_chình,là,loài,thuộc,cá,da_trơn,quý_hiếm,,,có,tên,khoa_học,là,Anguilla,.,Đây,là,loài,có,tốc_độ_sinh_trưởng,và,phát_triển,nhanh,,,có,tập_tính,sống,trong,bùn,và,các,hang_hốc,,,sợ,ánh_sáng,,,hoạt_động,chủ_yếu,vào,ban_đêm,.,Là,một,trong,những,loài,đặc_sản,mang,lại,lợi_ích,kinh_tế,cao,và,rất,được,ưa_chuộng,trên,thị_trường,Việt_Nam,và,các,nước,Đông_Bắc,Á,.
+N,V,N,V,N,V,R,F,V,N,N,V,Np,F,P,V,N,V,N,C,V,A,F,V,N,V,E,N,C,L,N,F,V,N,F,V,A,E,N,F,V,M,E,L,Nc,N,V,R,N,N,A,C,R,V,V,E,N,Np,C,L,N,Np,Np,F
+
+65
+Ngoê,hnheêi,anao,thay,ñak,jônang,pôgloh,kô,waê,.,Yua,ka,pôgloh,maân,kam,adriêng,tôdrong,tôplih,moâi,tröông,.,Minh,maêng,thay,biê,blung,loi,baêl,jiêt,traêm,löông,ñak,lôêm,‘,bau,.,Tômöt,rim,‘,naêr,toê,phang,hôgeêi,pôgloh,waê,‘,yoêk,ñak,tômöt,jônang,minh,‘,baêl,jô,truh,sruoâÊih,söê,hli,aên,ka,soâk,yua,moâi,tröông,tôplih,ñoât,ngoât,cheêp,truh,tuêk,sa,hlaêu,‘,biê,jiê
+ , , , , , , , , , , ,Noun, , , , , , , , , , , , , ,Verb,Adjective, ,Verb, , , , , , , , , , , , ,Verb, , , , , , , , ,Numeral/Quantity, , , ,Verb, , , , ,Noun, , , , , , , , ,Verb, ,Verb, , , , 
+Lưu_ý,chỉ,thay,nước,khi,thật_sự,cần_thiết,.,Bởi_vì,,,cá_chình,rất,mẫn_cảm,với,sự,thay_đổi,môi_trường,.,Mỗi,lần,thay,không,vượt,quá,20,%,lượng,nước,trong,ao,.,Vào,những,ngày,nắng_nóng,,,tốt,nhất,nên,lấy,nước,vào,lúc,nửa_đêm,đến,sáng,sớm,để,tránh,cho,cá,bị,sốc,do,môi_trường,thay_đổi,đột_ngột,dẫn,đến,cá,bỏ,ăn,,,dễ,sinh_bệnh,.
+V,R,V,N,N,A,A,F,N,F,V,R,A,E,Nc,V,N,F,M,N,V,R,V,R,M,Nu,N,N,E,N,F,E,L,N,A,F,A,R,C,V,N,E,N,N,E,N,A,E,V,E,N,V,V,E,N,V,N,V,E,N,V,V,F,A,V,F
+
+66
+Jônang,cheêp,chô,adreâÊch,waê,ngoê,hnheêi,minh,tôdrong,ñôêng,roêng,ôêu,:,Adrol,jônang,cheêp,chô,minh,naêr,biê,aên,ka,,,waê,jö,ka,giai,,,söê,dônoê,ñak,hlaêng,,,ôêi,ñak,‘,yol,lueân,‘,baêl,jiêt,truh,baêl,jiêt,jô,aên,ka,moâi,tröông,kôchieâÊ,.,Ha,nhieât,ñoâ,aên,ka,tôhngam,truh,jiêt,C,,,anao,aên,ñoêng,tômöt,gôdung,,,pôm,ka,tôdrong,tep,‘,biêa,hoat,ñoâng,,,nhieât,ñoâ,ha,dal,biê,blung,kua,truh,ñoâ,C,minh
+ , , , , , , ,Numeral/Quantity, , , , , , , , , ,Numeral/Quantity, , , ,Noun, , , ,Noun, , , , , , , , , , ,Verb, , , ,Verb,Verb, ,Verb, , ,Noun, , , , , , , , ,Noun, ,Verb,Verb, , , , , , , , ,Determiner,Noun, ,Verb, , , , , , , ,Verb,Adjective, ,Verb,Verb,Verb, , ,Numeral/Quantity
+Khi,vận_chuyển,giống,cần,lưu_ý,một_số,vấn_đề,sau,:,Trước,khi,vận_chuyển,1,ngày,không,cho,cá,ăn,,,cần,nhốt,cá,vào,giai,,,đặt,chỗ,nước,trong,,,có,dòng_chảy,để,luyện,24,-,26,giờ,cho,cá,quen,môi_trường,chật_hẹp,.,Hạ,nhiệt_độ,cho,cá,xuống,8,-,10oC,,,mới,cho,đóng,vào,túi,,,làm,cho,cá,ở,trạng_thái,ngủ,,,ít,hoạt_động,,,nhiệt_độ,hạ,từ,từ,,,không,vượt,quá,5,-,8oC,một,lần,.
+N,V,A,V,V,L,N,A,F,E,N,V,M,N,R,V,N,V,F,V,V,N,E,N,F,V,N,N,A,F,V,N,E,V,M,F,M,Nu,E,N,V,N,N,F,V,N,E,N,V,M,F,M,F,R,V,V,E,N,F,V,E,N,E,N,V,F,A,V,F,N,V,E,N,F,R,V,R,M,F,M,M,N,F
+
+96
+Ñôêng,roêng,‘,noh,ñak,tômöt,‘,banh,‘,bau,rong,ngoê,hnheêi,waê,phai,söê,ñak,ñat,trong,minh,pôñaêm,truh,pheêi,tôhngam,met,xö,lyê,‘,bau,ñôêng,thuoâÊk,tiêm,puoân,ñôêng,‘,baêl,truh,kiloâgam,lôêm,minh,met,.,Ñôêng,roêng,‘,baêl,‘,naêr,bôên,pôm,ñak,ñôêng,kô,kach,tuh,DAP,thoi,adriêng,lieâu,löông,minh,‘,baêl,kiloâgam,lôêm,minh,met,hoa,tan,tuh,‘,bau,jônang,tôhngam,jô,bôgheâ,lieân,tuêk,lôêm,‘,baêl,truh,‘,naêr,truh,ñak,ôêi,môu,kseê,weâch,piêt,,,ñoâ,hlaêng,peâng,jiêt,puoân,jiêt,,,pH,:,tôpôh,pheêi,pôñaêm,truh,pheêi,pôñaêm,thoi,tôdrong,waê,.,Waê,söê,rim,ñoâ,in,nhöa,thoi,tra,srieâng,…,söê,ka
+ , , ,Pronoun, , , , , , ,Verb, , , ,Adverb, , , ,Noun,Numeral/Quantity, ,Verb, , ,Unit noun, , , , , , ,Verb, , , , ,Verb, , ,Numeral/Quantity,Unit noun, , , , , , , , ,Determiner, , , , ,Verb, ,Verb, , , ,Numeral/Quantity, , , , ,Numeral/Quantity,Unit noun, , ,Verb, , , , , , , , , , , ,Verb, , ,Verb, , , , , , , , , , ,Verb, ,Verb, , , , , , ,Verb, , ,Verb, , , , , , , ,Adjective, ,Verb, , , , ,Noun
+Sau,đó,cấp_nước,vào,đầy,ao,nuôi,,,lưu_ý,cần,phải,lọc,để,nước,đạt,độ,sâu,l,,,5,-,l,,,8m,rồi,xử_lý,ao,bằng,thuốc_tím,KMnO4,từ,2,-,4kg,/,1000m2,.,Sau,2,ngày,ta,tiến_hành,gây,màu_nước,bằng,cách,bón,phân,DAP,hoặc,NPK,với,liều_lượng,l,-,2kg,/,1000m2,hòa,tan,tạt,vào,ao,lúc,8h,sáng,liên_tục,trong,2,-,3,ngày,đến,khi,nước,có,màu,xanh,đọt,chuối,,,độ,trong,30,-,40cm,,,pH,:,7,5,-,8,5,thì,đạt,yêu_cầu,.,Cần,đặt,các,vật,như,ống,nhựa,hoặc,thả,trà,khô,...,để,cá,trú_ẩn,.
+E,P,V,E,A,N,V,F,N,V,V,V,E,N,V,N,A,A,F,M,F,N,F,M,C,V,N,E,N,N,E,M,F,M,F,M,F,E,M,N,P,V,V,V,E,N,V,N,Ny,C,Ny,E,N,N,F,M,F,M,N,V,V,E,N,N,M,N,A,E,M,F,M,N,E,N,N,V,N,A,A,N,F,N,A,M,F,M,F,V,F,M,F,M,C,V,N,F,V,V,L,N,C,N,N,C,V,N,A,F,E,N,V,F
+

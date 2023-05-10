@@ -1,0 +1,126 @@
+7
+Kuyêt,đinh,lơm,tơdrong,muk,tơdrong,kưu,khoa,hok,pơjing,nghê,pơm,sơnăm
+ , , ,Noun, ,Noun, , ,Verb,Verb, ,Verb,Noun
+Quyết_định,về,việc,phê_duyệt,danh_mục,nhiệm_vụ,nghiên_cứu,khoa_học,và,phát_triển,công_nghệ,thực_hiện,trong,năm,2020
+V,E,N,V,N,N,V,N,C,V,N,V,E,N,M
+
+9
+Kăn,kư,tô,chưk,khul,pơgơl,pơlei,'năr,19,khei,6,sơnăm
+ ,Adverb, , , ,Verb, , , , , ,Noun
+Căn_cứ,Luật,Tổ_chức,chính_quyền,địa_phương,ngày,19,/,6,/,2015
+N,Np,V,N,N,N,M,F,M,F,M
+
+10
+Phê,yuyêt,yanh,muk,14,tơdrong,kưu,khoa,hok,pơjing,nghê,kâp,tinh,pơm,sơnăm
+ , , , , ,Noun, , ,Verb,Verb, , , ,Verb,Noun
+Phê_duyệt,danh_mục,14,nhiệm_vụ,nghiên_cứu,khoa_học,và,phát_triển,công_nghệ,cấp,tỉnh,thực_hiện,trong,năm,2020
+V,N,M,N,V,N,C,V,N,N,N,V,E,N,M
+
+11
+Ưng,yung,tơdrong,tao,lơm,tơdrong,văn,'ban,chih,Viêt,sư,tơ,kan,tơja,Bơhnar,Kriêm
+ , ,Noun, , ,Noun, ,Noun,Verb, , , , ,Verb, , 
+Ứng_dụng,trí_tuệ,nhân_tạo,trong,tự_động,chuyển_đổi,văn_bản,chữ_viết,Tiếng,Việt,sang,phát_thanh,tiếng,Ba,Na_Kriem
+V,N,A,E,N,V,N,N,Np,Np,V,V,N,Np,Np
+
+11
+Kjung,pơtho,đao,đưk,,,jăl,arih,hok sinh,thông,'Binh,Đinh,lơm,lơm,sơnăm,âu
+ ,Verb, , , , ,Adjective,Noun, , , , , ,Noun, 
+Tăng_cường,giáo_dục,đạo_đức,,,lối,sống,cho,học_sinh,phổ_thông,Bình_Định,trong,giai_đoạn,hiện_nay
+V,V,N,F,N,V,E,N,N,Np,E,N,N
+
+13
+Đê,an,:,Minh,sô,yai,phap,hơgei,lơm,tơdrong,lư,năm sơhmanh,thi,trương,păng,Đông,Âu
+ , , , , , , , , ,Noun,Adjective,Verb, ,Noun, , , 
+Đề_án,:,Một_số,giải_pháp,cấp_bách,trong,việc,thu_hút,khách,du_lịch,tại,thị_trường,Nga,và,Đông_Âu
+N,F,L,N,A,E,N,V,N,V,E,N,Np,C,Np
+
+16
+Kăn,kư,đinh,sô,37/2016/QĐ-UBND,'năr,15/7/2016,di,UBND,tinh,'Binh,Đinh,khan,chê,jư,p'lơk,pơm,kho,hok,kông,tinh,'Binh,Đinh
+ ,Adverb, , , , , , , , , , ,Verb,Noun,Verb, ,Verb, ,Verb,Noun, , , 
+Căn_cứ,Quyết_định,số,37,/,2016,/,QĐ,-,UBND,ngày,15,/,7,/,2016,của,UBND,tỉnh,Bình_Định,Ban_hành,Quy_chế,quản_lý,và,tổ_chức,thực_hiện,nhiệm_vụ,khoa_học,và,công_nghệ,tỉnh,Bình_Định
+N,V,N,M,F,M,F,Ny,F,Ny,N,M,F,M,F,M,E,Ny,N,Np,V,N,V,C,V,V,N,N,C,N,N,Np
+
+16
+Đăk,điêm,păng,tơhyung,pơjing,sơ,yư,liêu,khi,tương,thuy,văn,tinh,'Binh,Đinh,sơnăm,-,2020
+ , , , ,Verb, , , , , , , , , , ,Noun, , 
+Đặc_điểm,và,xây_dựng,cơ_sở,dữ_liệu,khí_tượng,thủy_văn,tỉnh,Bình_Định,giai_đoạn,2005,-,2020
+N,C,V,N,N,N,N,N,Np,N,M,F,M
+
+17
+Nghiên,kưu,pơjing,mô,hinh,hoa,păng,vei,jư,'bao,tang,păng,yi,tich,lich,sư,lơm,apung,'Binh,Đinh
+ , ,Verb, , , , , ,Verb, , , , , , , , ,Noun, , 
+Nghiên_cứu,phát_triển,hệ_thống,mô_hình_hóa,và,quản_lý,hiện_vật,bảo_tàng,và,di_tích,lịch_sử,trên,địa_bàn,tỉnh,Bình_Định
+V,V,N,N,C,V,N,V,C,N,N,E,N,N,Np
+
+17
+Điêu,tra,đanh,ya,tơdrong,khan,phap,pôk,hơgei,lơm,vươn,'long,đâu,yong,tơgum,hom,Keo,lai,tơgum,choh,jang,adrech
+ , , , ,Noun,Verb, ,Verb, , , , , , , , , , , ,Verb,Adjective, 
+Điều_tra,đánh_giá,thực_trạng,và,đề_xuất,giải_pháp,nâng,cao,chất_lượng,vườn,cây,đầu,dòng,cung_cấp,hom,Keo_lai,phục_vụ,sản_xuất,cây,giống,trồng,rừng,tại,tỉnh,Bình_Định
+V,V,N,C,V,N,V,A,N,N,Nc,N,N,V,N,N,V,V,Nc,N,V,N,E,N,Np
+
+19
+Nghiên,kưu,tơhyung,pơơjing,kuy,trinh,sinh,hok,jang,tơp'lih,sưa,'bo,mi,ưng,yung,ăn,mo,kon,jơh,mi,10,'năr,sơnăm,6,khei,sơnăm,'Binh,Đinh
+ , , , , , , ,Verb,Adjective, , , ,Noun, , ,Verb, ,Noun,Adverb,Noun, , ,Noun, , ,Noun, , 
+Nghiên_cứu,quy_trình,công_nghệ,sinh_học,sản_xuất,thức_ăn,thay_thế,sữa,bò,mẹ,và,ứng_dụng,cho,bê,sữa,đực,tách,mẹ,từ,10,ngày,tuổi,đến,6,tháng,tuổi,tại,Bình_Định
+V,V,N,N,V,N,V,N,N,N,C,V,E,N,N,A,V,N,E,M,N,N,E,M,N,N,E,Np
+
+21
+Nghiên,kưu,hơgei,pơjing,tim,vinh,viên,tơ,dơ,no,vach,lơm,kơpah,'ma,tơ,'Bênh,viên,Đa,Khoa,tinh,'Binh,Đinh
+ , , ,Verb, , , , , , , , , , , , , , , , , , 
+Nghiên_cứu,hiệu_quả,tạo,nhịp,tim,vĩnh_viễn,tại,vị_trí,vách,giữa,thất,phải,tại,Bệnh_viện,Đa_khoa,tỉnh,Bình_Định
+V,N,V,N,N,A,E,N,N,E,N,V,E,N,N,N,Np
+
+21
+Nghiên,kưu,pơjing,pơm,phâm,(,bơgang/,thưk,phâm,vei,jư,pran,'long,chê,tơ,xa,An,Toan,,,tơring,An,Lao,,,tinh,'Binh,Đinh
+ , ,Verb,Verb, , , , , , ,Verb,Adjective, ,Noun, , , , , , , , , , , , 
+Nghiên_cứu,phát_triển,và,chế_biến,sản_phẩm,(,thuốc,/,thực_phẩm,bảo_vệ,sức_khỏe,),của,cây,chè,Dây,tại,xã,An_Toàn,,,huyện,An_Lão,,,tỉnh,Bình_Định
+V,V,C,V,N,F,N,F,N,V,N,F,E,Nc,N,Np,E,N,Np,F,N,Np,F,N,Np
+
+23
+Nghiên,kưu,ưng,yung,phâu,thuât,nôi,soi,hơming,thoat,vi,đia,đêm,kơ,ting,chơ,tơ,'Bênh,viên,đa,khoa,tinh,'Binh,Đinh
+ , , , , , , , , , , , , , , ,Verb, , , , , , , , 
+Nghiên_cứu,ứng_dụng,phẫu_thuật,nội_soi,điều_trị,thoát_vị,đĩa_đệm,cột_sống,thắt_lưng,tại,Bệnh_viện,đa_khoa,tỉnh,Bình_Định
+V,V,V,N,V,N,N,N,N,E,N,N,N,Np
+
+23
+Nghiên,kưu,tơhyung,pơjing,hinh,kan,thiêp,lơm,yư,phong,păng,sang,lok,tơ'boh,sruôih,thư,toh,mâm,di,kon,lơm,sơnăm,kon,15,truh,sơnăm,tơ,tinh,'Binh,Đinh
+ , , ,Verb, , , , , , , , , , ,Adjective, , , , ,Noun, ,Noun,Noun, ,Verb,Noun, , , , 
+Nghiên_cứu,xây_dựng,mô_hình,can_thiệp,về,dự_phòng,và,sàng_lọc,phát_hiện,sớm,ung_thư,vú,của,phụ_nữ,trong,độ,tuổi,sinh_đẻ,(,15,-,49,tuổi,),tại,tỉnh,Bình_Định
+V,V,N,V,E,V,C,V,V,A,N,N,E,N,E,N,N,N,F,M,F,M,Nu,F,E,N,Np
+
+25
+Kăn,kư,đinh,sô,601/QĐ-UBND,'năr,02/3/2016,di,Chu,tich,UBND,tinh,'Binh,Đinh,lơm,tơdrong,Hôi,đông,tư,vân,khan,tơdrong,hok,Kông,nghê,tinh,'Binh,Đinh,sơnăm,-,2020
+ ,Adverb, , , , , , , , , , , , , ,Noun, , , , ,Verb,Noun,Verb, , , , , ,Noun, , 
+Căn_cứ,Quyết_định,số,601,/,QĐ,-,UBND,ngày,02,/,3,/,2016,của,Chủ_tịch,UBND,tỉnh,Bình_Định,về,việc,thành_lập,Hội_đồng,Tư_vấn,xác_định,nhiệm_vụ,Khoa_học,và,Công_nghệ,tỉnh,Bình_Định,giai_đoạn,2016,-,2020
+N,V,N,M,F,Ny,F,Ny,N,M,F,M,F,M,E,N,Ny,N,Np,E,N,V,N,V,V,N,N,C,N,N,Np,N,M,F,M
+
+25
+Sơ,Khoa,hok,Kông,nghê,adring,rim,kơ,kuan,,,đơn,vi,ơi,liên,kuan,p'lơk,pơnhroh,rim,đe,,,yư,an,jơh,lơm,Điêu,minh,tro,kuy,đinh,hiên
+ , ,Verb, , , , , , , , , , , , , , , ,Pronoun, , , ,Adverb, , ,Numeral/Quantity, , , ,Verb
+Sở,Khoa_học,và,Công_nghệ,phối_hợp,với,các,cơ_quan,,,đơn_vị,có,liên_quan,tổ_chức,triển_khai,các,đề_tài,,,dự_án,đã,nêu,tại,Điều,1,theo,đúng,quy_định,hiện_hành
+N,Np,C,N,V,E,L,N,F,N,V,V,V,V,L,N,F,N,R,V,E,N,M,V,A,N,N
+
+26
+Nghiên,kưu,tơhyung,pơơjing,kuy,trinh,ky,thuât,rong,tăi,teh,kok,Penaeus,vannamei,),thương,phâm,tech,thâm,kanh,,,thâm,kanh,kông,Semi,BioFloc,gah,ăl,kơjăp,tinh,'Binh,Đinh
+ , , , , , , , ,Verb, ,Noun,Verb, , , , , , , , , , , ,Noun, , ,Adverb, ,Adjective, , , 
+Nghiên_cứu,xây_dựng,quy_trình,kỹ_thuật,nuôi,tôm_thẻ,chân,trắng,(,Penaeus,vannamei,),thương_phẩm,Bán,thâm_canh,,,thâm_canh,công_nghệ,Semi,BioFloc,theo,hướng,phát_triển,bền_vững,tại,tỉnh,Bình_Định
+V,V,N,N,V,N,N,A,F,Np,V,F,N,V,N,F,V,N,Np,V,V,N,V,A,E,N,Np
+
+27
+Nghiên,kưu,chê,che,phâm,nano,'bak,chitosan,đưng,kơ,đoh,tel,pơgop,tơgum,ô,nhiêm,môi,trương,pơm,san,păng,tơgum,choh,nông,nghiêp,tơ,Bênh,viên,đa,khoa,tinh,'Binh,Đinh
+ , ,Noun, , , ,Noun, , , ,Verb, , , , , , ,Noun,Verb, , , ,Verb, , , , , , , , , , 
+Nghiên_cứu,chế_tạo,chế_phẩm,nano,bạc,từ,chitosan,vỏ,tôm,góp_phần,giải_quyết,ô_nhiễm,môi_trường,trong,chế_biến,thủy_sản,và,phục_vụ,sản_xuất,nông_nghiệp,hữu_cơ,tại,Bình_Định
+V,V,N,N,N,E,N,N,N,V,V,V,N,E,V,N,C,V,V,N,N,E,Np
+
+36
+Nghiên,kưu,,,pơm,keh,tơdrong,ala,,,thu,,,pơm,tiêu,chuân,GACP-WHO,păng,choh,đô,(,pơgang/,đô,xa,vei,jư,pran,đưng,2,tơ'nưm,'long,yươk,liêu,:,pêng,tim,,,Ha,thu,gôh,xa,An,Toan,,,tơring,An,Lao,,,tinh,'Binh,Đinh
+ , , ,Verb,Noun,Noun,Preposition, ,Adjective, ,Verb, , , , ,Verb, , , , , , ,Verb,Adjective, , , , , , , ,Numeral/Quantity, , , ,Adjective,Adjective, , , , , , , , , , , 
+Nghiên_cứu,,,di_thực,,,hoàn_thiện,quy_trình,trồng,dưới,tán,rừng,,,thu,hái,,,chế_biến,theo,tiêu_chuẩn,GACP,-,WHO,và,sản_xuất,sản_phẩm,(,thuốc,/,thực_phẩm,bảo_vệ,sức_khỏe,),từ,2,cây,dược_liệu,:,Ba_kích,tím,,,Hà_thủ_ô,đỏ,tại,xã,An_Toàn,,,huyện,An_Lão,,,tỉnh,Bình_Định
+V,F,N,F,V,N,V,E,V,N,F,V,N,F,V,V,N,Ny,F,Ny,C,V,N,F,N,F,N,V,N,F,E,M,Nc,N,F,N,A,F,N,A,E,N,Np,F,N,Np,F,N,Np
+
+51
+Chanh,Văn,phong,UBND,tinh,,,Yam,đôk,rim,Sơ,:,Khoa,hok,Kông,nghê,,,Tai,chinh,;,Yam,đôk,kho,'bak,têh,đak,;,Thanh,viên,Hôi,đông,Tư,vân,khan,tơdrong,hok,kông,tinh,păng,khul,pơgơl,kơ,kuan,,,đơn,vi,ơi,liên,kuan,chiu,trach,nhiêm,thi,hanh,Kuyêt,đinh,'nâu,đưng,'năr,ki
+ , , , , , , , , , , , ,Verb, , , , , , , , , ,Noun, ,Noun, , , , , , , ,Verb,Noun,Verb,Noun, , , ,Verb, , , , , , , , , , , , , , , , , , , 
+Chánh,Văn_phòng,UBND,tỉnh,,,Giám_đốc,các,Sở,:,Khoa_học,và,Công_nghệ,,,Tài_chính,;,Giám_đốc,Kho_bạc,Nhà_nước,tỉnh,;,Thành_viên,Hội_đồng,Tư_vấn,xác_định,nhiệm_vụ,khoa_học,và,công_nghệ,tỉnh,và,Thủ_trưởng,cơ_quan,,,đơn_vị,có,liên_quan,chịu,trách_nhiệm,thi_hành,Quyết_định,này,kể,từ,ngày,ký
+Np,V,Ny,N,F,N,L,Np,F,N,C,N,F,N,F,N,N,N,N,F,N,N,V,V,N,N,C,N,N,C,N,N,F,N,V,V,V,N,V,N,P,V,E,N,V
+

@@ -1,0 +1,162 @@
+7
+Keh,kong,thoâÊng,tôdrong,baêt,aên,san,phaâm
+ ,Noun, , , , , , 
+Hoàn_thiện,hệ_thống,dấu_hiệu,nhận_biết,cho,sản_phẩm,.
+V,N,N,V,E,N,F
+
+8
+Pôloêk,pôtho,khan,nghieâm,choh,,,tôdrong,choh,aên,rim,uênh,hnam,jang
+ , ,Verb, ,Verb, , ,Verb, , , ,Noun,Adjective
+Tổ_chức,truyền_đạt,kinh_nghiệm,sản_xuất,,,quy_trình,sản_xuất,cho,các,hộ,sản_xuất,.
+V,V,N,V,F,N,V,E,L,N,V,F
+
+10
+Tôguêm,,,keh,tôdrong,ngoê,hnheêi,oeêng,chaê,yuoâ,nhan,hieâu
+ , ,Noun, , , , , , , , 
+Bổ_sung,,,hoàn_thiện,quy_chế,quản_lý,và,sử_dụng,nhãn_hiệu
+V,F,V,N,V,C,V,N
+
+11
+Tôguêm,trong,aên,rim,tôdrong,baêt,ñôêng,san,phaâm,leêch,thi,tröông
+ ,Noun, , , , , , , , , , 
+Hỗ_trợ,bước_đầu,đưa,các,dấu_hiệu,nhận_biết,về,sản_phẩm,ra,thị_trường,.
+V,N,V,L,N,V,E,N,V,N,F
+
+12
+Tôjung,pôm,yöê,thao,kuy,trinh,kôêp,,,thu,kueân,chaê,yuoâ,nhan,hieâu
+ ,Determiner, , , , , , ,Adjective, , , , , 
+Xây_dựng,dự_thảo,quy_trình,cấp,,,thu_hồi,quyền,sử_dụng,nhãn_hiệu
+V,N,V,N,F,V,N,V,N
+
+13
+Ñôn,viê,pôm,Trung,taâm,tôguêm,pôjing,koâng,ngheâ,thoâng,tin,‘,Binh,Ñinh
+ , ,Determiner, , , , , , , , , , , 
+Đơn_vị,thực_hiện,:,Trung_tâm,Hỗ_trợ,Phát_triển,công_nghệ,thông_tin,Bình_Định
+N,V,F,N,V,V,N,N,Np
+
+13
+Tôguêm,aên,san,phaâm,:,‘,Beêng,iêt,hla,gai,‘,Binh,Ñinh
+ , , , , , , , , , , , , 
+Hỗ_trợ,cho,sản_phẩm,:,Bánh_Ít,lá,gai,Bình_Định,.
+V,E,N,F,E,N,N,Np,F
+
+14
+Thieât,keâÊ,,,thoâÊng,nhaât,chaê,‘,yoêk,môêu,nhan,hieâu,‘,bao,hoâ
+ , , , , , , , , , , , , , 
+Thiết_kế,,,thống_nhất,lựa_chọn,mẫu,nhãn_hiệu,cần,bảo_hộ
+V,F,V,V,N,N,V,V
+
+14
+Tôjung,pôm,yöê,thao,tôdrong,ngoê,hnheêi,tôdrong,thu,yoêk,ñei,san,phaâm,ñat,tieâu,chuaân
+ ,Determiner, , , , , , ,Adjective, , , , , , , 
+Xây_dựng,dự_thảo,quy_trình,kiểm_soát,chất_lượng,sản_phẩm,đạt,tiêu_chuẩn
+V,N,N,V,N,N,V,N
+
+15
+Tôjung,pôm,yöê,thao,kuy,ñinh,chaê,yuoâ,tem,,,nhan,,,logo,lôêm,san,phaâm
+ ,Determiner, , , , , , , , , , , , , , 
+Xây_dựng,dự_thảo,quy_định,sử_dụng,tem,,,nhãn,,,logo,trên,sản_phẩm
+V,N,V,V,N,F,N,F,N,E,N
+
+16
+Heâ,thoâÊng,tai,lieâu,tôguêm,ngoê,hnheêi,oeêng,pôjing,kua,tri,tueâ,jôh,ñei,‘,bao,hoâ
+ , , , , , , , , ,Verb, , , , , , , 
+Hệ_thống,tài_liệu,phục_vụ,quản_lý,và,phát_triển,tài_sản,trí_tuệ,đã,được,bảo_hộ
+N,N,V,N,C,V,N,N,R,V,V
+
+18
+Phaân,tiêch,,,xac,ñinh,rim,tôdrong,ñaêk,thu,san,phaâm,‘,Beêng,iêt,hla,gai,‘,Binh,Ñinh
+ , , , , , , , ,Adjective, , , , , , , , , , 
+Phân_tích,,,xác_định,các,tiêu_chí,đặc_thù,của,sản_phẩm,Bánh_Ít,lá,gai,Bình_Định
+V,F,V,L,N,N,E,N,Np,N,N,Np
+
+22
+Tôguêm,ñaêng,kyê,‘,bao,hoâ,kueân,sô,höu,koâng,nghieâp,aên,san,phaâm,‘,Beêng,iêt,hla,gai,‘,Binh,Ñinh
+ , , , , , , , , , , , , , , , , , , , , , 
+Hỗ_trợ,đăng_ký,bảo_hộ,quyền,sở_hữu,công_nghiệp,cho,sản_phẩm,Bánh_Ít,lá,gai,Bình_Định,.
+V,V,V,N,V,N,E,N,Np,N,N,Np,F
+
+24
+Tôjung,pôm,aên,leêch,tôdrong,ngoê,hnheêi,oeng,chaê,yuoâ,nhan,hieâu,waê,‘,bao,hoâ,aên,‘,Beêng,iêt,hla,gai,‘,Binh,Ñinh
+ ,Determiner, , , , , , , , , , , , , , , , , , , , , , , 
+Xây_dựng,và,ban_hành,Quy_chế,quản_lý,và,sử_dụng,nhãn_hiệu,cần,bảo_hộ,cho,Bánh_Ít,lá,gai,Bình_Định
+V,C,V,N,V,C,V,N,V,V,E,Np,N,N,Np
+
+26
+Pôkaê,chaê,‘,yoêk,phap,nhaân,sô,höu,oeêng,ñoâÊi,töông,sô,höu,tro,troê,adriêng,san,phaâm,‘,Beêng,iêt,hla,gai,‘,Binh,Ñinh
+ , , , , , , , , , , , , , , , , , , , , , , , , , 
+Đề_xuất,lựa_chọn,pháp_nhân,sở_hữu,và,đối_tượng,sở_hữu,phù_hợp,với,sản_phẩm,Bánh_Ít,lá,gai,Bình_Định
+V,V,N,V,C,N,V,V,E,N,Np,N,N,Np
+
+26
+Keh,kong,sô,,,noâp,oeng,ngo,chaê,tia,hoâ,sô,ñaêng,ky,bao,hoâ,kueân,sô,höu,koâng,nghieâp,dô,no,Kuk,sô,höu,tri,tueâ
+ ,Noun, , , , , , , , , , , , , , , , , , , , , , , , , 
+Hoàn_thiện,hồ_sơ,,,nộp,và,theo_đuổi,hồ_sơ,đăng_ký,bảo_hộ,quyền,sở_hữu,công_nghiệp,tại,Cục,Sở_hữu,trí_tuệ
+V,N,F,V,C,V,N,V,V,N,V,N,E,Np,V,N
+
+29
+Tôjung,pôm,sô,ñaêng,kyê,‘,bao,hoâ,kueân,sô,höu,koâng,nghieâp,;,poâk,xuoân,thu,yoêk,–,tôdrong,thu,yoêk,ñei,oeêng,ngoê,hnheêi,pôjing,thöông,hieâu,leêch,thi,tröông
+ ,Determiner, , , , , , , , , , , , , , ,Adjective, , , ,Adjective, , , , , , , , , , , 
+Xây_dựng,hồ_sơ,đăng_ký,bảo_hộ,quyền,sở_hữu,công_nghiệp,;,nâng,cao,năng_suất,-,chất_lượng,và,quản_lý,phát_triển,thương_hiệu,ra,thị_trường,.
+V,N,V,V,N,V,N,F,V,A,N,F,N,C,N,V,N,V,N,F
+
+29
+Nguoân,jeân,pôm,Jeân,sö,nghieâp,khoa,hoêk,oeêng,koâng,ngheâ,sônaêm,‘,baêl,ôbôêu,khoâng,hrieâng,minh,pôñaêm,jôh,pôjao,‘,yöê,toan,aên,Sô,Khoa,hoêk,oeêng,Koâng,ngheâ
+ , ,Determiner, , , , , , , , , , , , , , ,Numeral/Quantity, , , , , , , , , , , , , 
+Nguồn,kinh_phí,thực_hiện,:,Kinh_phí,sự_nghiệp,Khoa_học,và,Công_nghệ,năm,2015,đã,giao,dự_toán,cho,Sở,Khoa_học,và,Công_nghệ,.
+N,N,V,F,N,N,N,C,N,N,M,R,V,V,E,Np,Np,C,N,F
+
+30
+Baêo,kaêo,,,pôtho,khan,keât,‘,yöê,an,khoa,hoêk,oeêng,koâng,ngheâ,tôguêm,san,phaâm,ñaêk,tröng,jônang,‘,baêl,ôbôêu,khoâng,hrieâng,minh,minh,‘,baêl,ôbôêu,khoâng,hrieâng,minh,pôñaêm
+ , , , ,Verb, , , , , , , , , , , , , , , , , , , , ,Numeral/Quantity,Numeral/Quantity, , , , , ,Numeral/Quantity, 
+Báo_cáo,,,đánh_giá,tổng_kết,Dự_án,khoa_học,và,Công_nghệ,hỗ_trợ,sản_phẩm,đặc_trưng,giai_đoạn,2011,-,2015,.
+V,F,V,V,N,N,C,N,V,N,N,N,M,F,M,F
+
+31
+Tôjung,pôm,boâ,tieâu,chuaân,chuaân,‘,biê,aên,tôdrong,ñaêng,kyê,‘,bao,hoâ,nhan,hieâu,,,thoi,noh,leêch,tieâu,chuaân,kô,sô,aên,‘,Beng,iêt,hla,gai,‘,Binh,Ñinh
+ ,Determiner, , , , , , , , , , , , , , , , ,Verb,Pronoun, , , , , , , , , , , , , , 
+Xây_dựng,bộ,tiêu_chuẩn,chuẩn_bị,cho,việc,đăng_ký,bảo_hộ,nhãn_hiệu,,,đồng_thời,ban_hành,tiêu_chuẩn,cơ_sở,cho,Bánh_Ít,lá,gai,Bình_Định
+V,N,N,V,E,N,V,V,N,F,C,V,N,N,E,Np,N,N,Np
+
+31
+Ñuêk,keât,tôdrong,choh,adriêng,,,trô,troê,adriêng,thök,teâÊ,tôjung,pôm,tôdrong,choh,‘,Beêng,iêt,hla,gai,‘,Binh,Ñinh,cheêp,nhan,hieâu,‘,Beêng,iêt,hla,gai,‘,Binh,Ñinh
+ , , ,Verb, , , , , , , , ,Determiner, ,Verb, , , , , , , , , , , , , , , , , , , 
+Đúc_kết,quy_trình,sản_xuất,chung,,,phù_hợp,với,thực_tế,áp_dụng,cho,việc,sản_xuất,Bánh_Ít,lá,gai,Bình_Định,mang,nhãn_hiệu,Bánh_Ít,lá,gai,Bình_Bịnh,.
+V,N,V,A,F,V,E,N,V,E,N,V,Np,N,N,Np,V,N,Np,Nc,N,Np,F
+
+34
+Ngoê,hnheêi,pôtho,khan,kuy,moâ,,,kuy,trinh,koâng,ngheâ,,,thu,yoêk,,,tieâu,chuaân,tôdrong,thu,yoêk,ñei,,,sô,höu,koâng,nghieâp,adriêng,san,phaâm,‘,Beêng,iêt,hla,gai,‘,Binh,Ñinh
+ , , ,Verb, , , , , , , , ,Adjective, , , , , ,Adjective, , , , , , , , , , , , , , , , , , 
+Khảo_sát,đánh_giá,về,quy_mô,,,quy_trình,công_nghệ,,,năng_suất,,,tiêu_chuẩn,chất_lượng,,,sở_hữu,công_nghiệp,đối_với,sản_phẩm,Bánh_Ít,lá,gai,Bình_Định,.
+V,V,E,N,F,V,N,F,N,F,N,N,F,V,N,E,N,Np,N,N,Np,F
+
+34
+Thieât,keÊâ,heâ,thoâÊng,nhaân,baêt,aên,san,phaân,(,nhan,san,phaâm,,,tem,,,tô,rôi,,,pôtruh,san,phaâm,,,‘,bieân,hieâu,kuang,kaêo,oeêng,môêu,gian,hang,pôtruh,san,pham
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,Noun
+Thiết_kế,hệ_thống,nhận_biết,cho,sản_phẩm,(,nhãn,sản_phẩm,,,tem,,,tờ_rơi,giới_thiệu,sản_phẩm,,,biển_hiệu,quảng_cáo,và,mẫu,gian_hàng,trưng_bày,sản_phẩm,)
+V,N,N,E,N,F,N,N,F,N,F,N,V,N,F,N,V,C,N,N,V,N,F
+
+34
+Giam,ñoâk,Trung,taâm,tôguêm,pôjing,koâng,ngheâ,thoâng,tin,‘,Binh,Ñinh,adriêng,rim,kô,kuan,lieân,kuan,,,pôloêk,pônhroh,pôm,tôdrong,oeêng,jeân,ñei,pheâ,jueâÊt,lôêm,Ñieâu,minh,boi,tôdrong,hieân,hanh
+ , , , , , , , , , , , , , , , , , , , , , ,Determiner, , , , , , , , ,Numeral/Quantity, , , , 
+Giám_đốc,Trung_tâm,Hỗ_trợ,Phát_triển,công_nghệ,thông_tin,Bình_Định,phối_hợp,với,các,cơ_quan,liên_quan,,,tổ_chức,triển_khai,thực_hiện,các,nội_dung,và,kinh_phí,được,phê_duyệt,tại,Điều,1,theo,quy_định,hiện_hành,.
+N,N,V,V,N,N,Np,V,E,L,N,V,F,V,V,V,L,N,C,N,R,V,E,N,M,V,V,N,F
+
+39
+KueâÊt,ñinh,pheâ,jueâÊt,noâi,‘,yung,oeêng,‘,yöê,toan,jeân,“,‘,Yöê,an,khoa,hoêk,oeêng,koâng,ngheâ,tôguêm,pôjing,rim,ñoâ,ñaêk,tröng,tinh,‘,Binh,Ñinh,sônaêm,‘,baêl,ôbôêu,khoâng,hrieâng,minh,pôñaêm,”
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,Numeral/Quantity, , 
+Quyết_định,phê_duyệt,nội_dung,và,dự_toán,kinh_phí,“,Dự_án,khoa_học,và,công_nghệ,hỗ_trợ,phát_triển,các,sản_phẩm,đặc_trưng,tỉnh,Bình_Định,năm,2015,”
+V,V,N,C,V,N,F,N,N,C,N,V,V,L,N,N,N,Np,N,M,F
+
+45
+Kaên,köê,Thoâng,tö,ksoâÊ,tôxiênh,jiêt,sônaêm,‘,baêl,ôbôêu,khoâng,hrieâng,le,drôêu,ñôêng,Lieân,‘,Boâ,Tai,chiênh,–,Khoa,hoêk,oeêng,Koâng,ngheâ,pôtho,khan,khoan,jeân,ñôêng,ñeâ,tai,,,‘,yöê,an,khoa,hoêk,oeêng,koâng,ngheâ,chaê,yuoâ,jeân,kôpal
+ , , , , , ,Verb, , , , , , , , , , , , , , , , , , , , , ,Verb, , , , , , , , , , , , , , , , , , 
+Căn_cứ,Thông_tư,số,93,/,2006,/,TTLT,/,BTC,-,BKHCN,ngày,04,/,10,/,2006,của,Liên_Bộ,Tài_Chính,-,Khoa_học,và,Công_nghệ,hướng_dẫn,chế_độ,khoán,kinh_phí,của,đề_tài,,,dự_án,khoa_học,và,công_nghệ,sử_dụng,ngân_sách,nhà_nước
+N,V,N,M,F,M,F,Ny,F,Ny,F,Ny,N,M,F,M,F,M,E,Np,Np,F,N,C,N,V,N,V,N,E,N,F,N,N,C,N,V,N,N
+
+66
+Kaên,köê,KueÊât,ñinh,ksoâÊ,‘,baêl,khoâng,puoân,tôhngam/QÑ-CTUBND,‘,naêr,‘,baêl,jiêt,kheêi,tôxiênh,sônaêm,‘,baêl,ôbôêu,khoâng,hrieâng,minh,‘,baêl,ñôêng,Chu,tich,UBND,tinh,‘,Binh,Ñinh,lôêm,tôdrong,pheâ,jueâÊt,‘,yöê,an,khoa,hoêk,oeêng,koâng,ngheâ,tôguêm,pôjing,rim,ñoâ,ñaêk,tröng,tinh,‘,Binh,Ñinh,jônang,‘,baêl,ôbôêu,khoâng,hrieâng,minh,minh,‘,baêl,ôbôêu,khoâng,hrieâng,minh,pôñaêm
+ , , , , , , , , , , , , , ,Verb, , , , , , , , ,Numeral/Quantity, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,Numeral/Quantity,Numeral/Quantity, , , , , ,Numeral/Quantity, 
+Căn_cứ,Quyết_định,số,2048,/,QĐ,-,CTUBND,ngày,24,/,9,/,2012,của,Chủ_tịch,UBND,tỉnh,Bình_Định,về,việc,phê_duyệt,Dự_án,Khoa_học,và,Công_nghệ,hỗ_trợ,phát_triển,các,sản_phẩm,đặc_trưng,tỉnh,Bình_Định,giai_đoạn,2011,-,2015
+N,V,N,M,F,Ny,F,Ny,N,M,F,M,F,M,E,N,Ny,N,Np,E,N,V,N,N,C,N,V,V,L,N,N,N,Np,N,M,F,M
+

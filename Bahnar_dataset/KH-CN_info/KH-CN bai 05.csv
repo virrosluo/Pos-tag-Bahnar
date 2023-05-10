@@ -1,0 +1,84 @@
+4
+Ơxong,tơdrong,jung,minh,tơdrong,thưk,rơih,thâu
+ ,Noun, ,Numeral/Quantity,Noun, ,Verb, 
+Phần,công_việc,không,áp_dụng,một,trong,các,hình_thức,lựa_chọn,nhà_thầu
+N,N,R,V,M,E,L,N,V,N
+
+8
+ya,tri,goi,thâu,jơh,thuê,ya,tri,kjung
+ , , , ,Adverb, , , , 
+Giá,các,gói_thầu,đã,bao_gồm,thuế,giá_trị,gia_tăng
+N,L,N,R,V,N,N,N
+
+12
+Kăn,kư,Tô,chưk,khul,pơ,gơl,pơ,lei,'năr,19,khei,6,sơ,năm
+ ,Adverb, , , , ,Noun, , , , , , , ,Verb
+Căn_cứ,Luật,Tổ_chức,chính_quyền,địa_phương,ngày,19,/,6,/,2015
+N,Np,V,N,N,N,M,F,M,F,M
+
+13
+Kơpah,krao,thâu,:,Trung,tâm,Kông,nghê,păng,Truyên,thông,'Binh,Đinh
+ , , , , , , , , , , , , 
+Bên,mời_thầu,:,Trung_tâm,Công_nghệ,và,Truyền_thông,Bình_Định
+N,N,F,N,N,C,N,Np
+
+18
+Ơxong,tơdrong,jơh,đei,,,thâm,đinh,,,phê,yuyêt,yư,toan,:,Khul,pơgơl,tư,chiu,trach,nhiêm,pơm,đinh,di,kơpal,đak
+ ,Noun,Adverb, , , , , , , , , , , ,Verb, , , , ,Verb, , ,Noun,Noun
+Phần,công_việc,đã,thực_hiện,Lập,,,thẩm_định,,,phê_duyệt,dự_toán,:,Chủ,đầu_tư,chịu,trách_nhiệm,thực_hiện,theo,quy_định,hiện_hành,của,Nhà_nước
+N,N,R,V,Np,F,V,F,V,N,F,N,V,V,N,V,E,N,N,E,N
+
+18
+Tơp'lih,pơjao,phân,mêm,ăn,đơn,vi,:,Khul,đâu,tư,chiu,trach,nhiêm,pơm,kui,đinh,di,Kơpal,têh,đak
+ , , , ,Verb, , , , , , , , , ,Verb, , , , , ,Noun
+Chuyển_giao,phần_mềm,cho,49,đơn_vị,:,Chủ,đầu_tư,chịu,trách_nhiệm,thực_hiện,theo,qui_định,hiện_hành,của,Nhà_nước
+V,N,E,M,N,F,N,V,V,N,V,E,N,A,E,N
+
+19
+Kăn,kư,đinh,sô,63/2014/NĐ-CP,'năr,26,khei,6,sơ,năm,di,Kơ,pal,đak,hơ,lơm,minh,tơ,drong,luât,Đâu,thâu,lơm,rơih,thâu
+ ,Adverb, , , , , , , , ,Verb, , ,Verb,Noun,Pronoun, ,Numeral/Quantity, , , , , , ,Verb, 
+Căn_cứ,Nghị_định,số,63,/,2014,/,NĐ,-,CP,ngày,26,/,6,/,2014,của,Chính_phủ,Quy_định,chi_tiết,thi_hành,một_số,điều,Luật_Đấu_thầu,về,lựa_chọn,nhà_thầu
+N,V,N,M,F,M,F,Ny,F,Ny,N,M,F,M,F,M,E,N,V,N,V,L,N,A,V,V,N
+
+19
+Kăn,kư,đinh,sô,4319/QĐ-Uy,'ban,yân,'năr,7,khei,12,sơnăm,di,Uy,'ban,yân,tinh,lơm,tơdrong,toan,ngân,sach,cham,pơlei,sơnăm
+ ,Adverb, , , ,Noun, , , , , ,Noun, , ,Noun, , , ,Noun, , , , , ,Noun
+Căn_cứ,Quyết_định,số,4319,/,QĐ,-,Ủy_ban,nhân_dân,ngày,07,/,12,/,2018,của,Ủy_ban,nhân_dân,tỉnh,về,việc,giao,dự_toán,ngân_sách,địa_phương,năm,2019
+N,V,N,M,F,Ny,F,N,N,N,M,F,M,F,M,E,N,N,N,E,N,V,N,N,N,N,M
+
+22
+Kăn,kư,đinh,sô,1899/QĐ,Uy,'ban,yân,'năr,6,khei,6,sơnăm,di,Uy,'ban,yân,tinh,'Binh,Đinh,lơm,tơdrong,tơhyung,pơjing,pơgơl,tư,tinh,'Binh,Đinh,sơnăm
+ ,Adverb, , , , ,Noun, , , , , ,Noun, , ,Noun, , , , , ,Noun, ,Verb,Verb, , , , ,Noun
+Căn_cứ,Quyết_định,số,1899,/,QĐ,-,Ủy_ban,nhân_dân,ngày,06,/,6,/,2019,của,Ủy_ban,nhân_dân,tỉnh,Bình_Định,về,việc,phê_duyệt,Kế_hoạch,triển_khai,xây_dựng,Chính_quyền,điện_tử,tỉnh,Bình_Định,năm,2019
+N,V,N,M,F,Ny,F,N,N,N,M,F,M,F,M,E,N,N,N,Np,E,N,V,N,V,V,N,N,N,Np,N,M
+
+23
+Kăn,kư,tư,sô,10,sơ,năm,TT-BKHĐT,'năr,26,khei,10,sơ,năm,di,Kơpal,Glong,pơnhroh,păng,Đâu,tư,hmăng,lơm,glong,pơ,nhroh,rơih,thâu
+ ,Adverb, , , , ,Verb, , , , , , ,Verb, , , , , , , ,Verb, , , , ,Verb, 
+Căn_cứ,Thông_tư,số,10,/,2015,/,TT,-,BKHĐT,ngày,26,/,10,/,2015,của,Bộ_trưởng,Bộ,Kế_hoạch,và,Đầu_tư,quy_định,chi_tiết,về,kế_hoạch,lựa_chọn,nhà_thầu
+N,N,N,M,F,M,F,Ny,F,Ny,N,M,F,M,F,M,E,N,N,N,C,V,V,N,E,N,V,N
+
+28
+Kuyêt,đinh,lơm,tơdrong,yuiêt,glong,pơnhroh,rơih,thâu,pơm,tơ,drong,``,tơplih,mêm,ăn,đơn,vi,``,păng,``,',Tơdyung,pơjing,mêm,vei,jư,chi,sô,lơm,Chinh,kuyên,điên,tư,``
+ , , ,Noun, , , ,Verb, ,Verb, , , ,Verb, ,Verb, , , , , , , ,Verb, , ,Verb, , , , , , , , 
+Quyết_định,về,việc,phê_duyệt,kế_hoạch,lựa_chọn,nhà_thầu,các,gói_thầu,",Chuyển_giao,phần_mềm,cho,49,đơn_vị,",và,",Xây_dựng,phần_mềm,Quản_lý,các,chỉ_số,về,Chính_quyền,điện_tử,"
+V,E,N,V,N,V,N,L,N,F,V,N,E,M,N,F,C,F,V,N,V,L,N,E,N,N,F
+
+30
+Pơjao,Yam,đôk,Thông,tin,păng,Truyên,thông,'Binh,Đinh,pơgơl,tâm,Kông,nghê,păng,Truyên,thông,'Binh,Đinh,adring,rim,đơn,vi,liên,kuan,pơnhroh,pơm,rơih,thâu,tro,kuy,đinh,di,kơpal,đak
+ , , , , , , , , , ,Verb, , , , , , , , , , , , , , , ,Verb,Verb, , , , , ,Noun,Noun
+Giao,Giám_đốc,Sở,Thông_tin,và,Truyền_thông,Bình_Định,chỉ_đạo,Trung_tâm,Công_nghệ,và,Truyền_thông,Bình_Định,phối_hợp,với,các,đơn_vị,liên_quan,triển_khai,thực_hiện,công_tác,lựa_chọn,nhà_thầu,theo,đúng,quy_định,hiện_hành,của,Nhà_nước
+V,N,N,N,C,N,Np,V,N,N,C,N,Np,V,E,L,N,V,V,V,N,V,N,V,A,N,N,E,N
+
+31
+vei,jư,chi,sô,Chinh,kuyên,điên,tư,tinh,'Binh,Đinh,păng,Pôk,xuôn,lơm,Website,rim,kơ,kuan,kơpal,đak,'Binh,Đinh,tro,glong,pơnhroh,tơhyung,pơjing,kuyên,điên,tư,tinh,'Binh,Đinh,sơ,năm
+ ,Verb, , , , , , , , , , , , , , , , , ,Noun,Noun, , , , , , ,Verb, , , , , , , ,Verb
+Quản_lý,các,chỉ_số,về,Chính_quyền,điện_tử,tỉnh,Bình_Định,và,Nâng_cấp,Website,các,cơ_quan,nhà_nước,tỉnh,Bình_Định,thuộc,Kế_hoạch,triển_khai,xây_dựng,Chính_quyền,điện_tử,tỉnh,Bình_Định,năm,2019
+V,L,N,E,N,N,N,Np,C,V,Np,L,N,N,N,Np,V,N,V,V,N,N,N,Np,N,M
+
+48
+Hmăng,hơgei,tơdrong,jên,kơpal,đak,ruôt,pơing,tơdrong,dach,kơ,kuan,kơpal,đak,đơn,vi,tro,lơm,lưk,lương,vu,trang,tơring,,,đơn,vi,sư,nghiêp,kông,,,p'lơk,chinh,tri,p'lơk,chinh,tri,-,xa,hôi,,,p'lơk,chinh,tri,xa,hôi,-,nghê,nghiêp,,,p'lơk,xa,hôi,,,p'lơk,xa,hôi,-,nghê,nghiêp
+ , ,Noun,Noun,Noun,Noun,Verb, ,Noun,Adverb, , ,Noun,Noun, , , , , , , ,Noun, , , , , , ,Noun, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+Quy_định,chi_tiết,việc,sử_dụng,vốn,nhà_nước,để,mua_sắm,nhằm,duy_trì,hoạt_động,thường_xuyên,của,cơ_quan,nhà_nước,,,đơn_vị,thuộc,lực_lượng,vũ_trang,nhân_dân,,,đơn_vị,sự_nghiệp,công_lập,,,tổ_chức,chính_trị,,,tổ_chức,chính_trị,-,xã_hội,,,tổ_chức,chính_trị,xã_hội,-,nghề_nghiệp,,,tổ_chức,xã_hội,,,tổ_chức,xã_hội,-,nghề_nghiệp
+V,N,N,V,N,N,E,V,V,V,N,A,E,N,N,F,N,V,N,N,N,F,N,N,A,F,V,N,F,V,N,F,N,F,V,N,N,F,N,F,V,N,F,V,N,F,N
+
