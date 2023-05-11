@@ -1,0 +1,18 @@
+A: tính từ			t
+C: liên từ			k
+E: giới từ			E
+I: thán từ			I
+L: từ hạn định			L
+M: Số				M
+N: danh từ			d
+Nc: noun classifier		Nc
+Ny: danh từ viết tắt		Ny
+Np: danh từ riêng		Np
+Nu: danh từ đơn vị		Nu
+P: đại từ			đ
+R: trạng từ			p
+S: liên từ phụ thuộc		k
+T: trợ từ, từ tình thái		tr
+V: Động từ			đg
+X: unknown			x
+F: Chấm câu			F
