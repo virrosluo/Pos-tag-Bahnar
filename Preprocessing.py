@@ -19,7 +19,7 @@ def translator(token_list):
         response = requests.post(url, headers= header, json= data)
         
         if response.status_code != 200:
-            print(f"POST Request failed: \"{token}\"")
+            print(f"POST Request failed: \"{token}\" {response.text}")
 
             if error == "": error = token
             elif error != token: print(f"Have not fix \"{error}\" and jump another error: \"{token}\"")
@@ -33,18 +33,10 @@ def translator(token_list):
 
     return response_data
 
-def read_file(filename):
-    sentences = []
-    with open(filename, 'r', encoding='utf-8') as file:
-        for line in file:
-            sentences.append(line.rstrip())
-
-    return sentences
-
 def tokenize_tag(str):
     token, tag = ViPosTagger.postagging(ViTokenizer.tokenize(str))
 
     for i in range(len(token)):
-        token[i] = token[i].replace('_', ' ')
+        token[i] = token[i].lower().replace('_', ' ')
     
     return (token, tag)
